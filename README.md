@@ -97,7 +97,7 @@ I'm a strong advocate for:
 
 ## 🤝 Let's Connect
 
-I'm always excited to collaborate on DevOps projects, discuss infrastructure challenges, or explore new technologies. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eknathdj/)!
+I'm always excited to collaborate on DevOps projects, discuss infrastructure challenges, or explore new technologies. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eknath-d-j-b5199118/)!
 
 ---
 
