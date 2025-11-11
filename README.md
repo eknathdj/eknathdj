@@ -1,6 +1,8 @@
 # Hi there, I'm Eknath 👋
 
-## DevOps Engineer | Cloud Infrastructure Enthusiast | Automation Advocate
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 I'm passionate about building robust, scalable, and automated infrastructure solutions. My expertise lies in orchestrating cloud-native applications, implementing GitOps workflows, and creating seamless CI/CD pipelines that empower development teams to ship faster and more reliably.
 
@@ -8,28 +10,25 @@ I'm passionate about building robust, scalable, and automated infrastructure sol
 
 ## 🛠️ Tech Stack & Expertise
 
-### Cloud & Infrastructure
-- **Cloud Platforms:** Microsoft Azure (AKS, Key Vault, Virtual Networks)
-- **Infrastructure as Code:** Terraform, HCL
-- **Container Orchestration:** Kubernetes, Azure Kubernetes Service (AKS)
-- **Containerization:** Docker, Multi-stage builds
-
-### CI/CD & GitOps
-- **CI/CD Tools:** Jenkins, ArgoCD
-- **GitOps Workflows:** Declarative infrastructure and application deployment
-- **Version Control:** Git, GitHub
-
-### Platforms & Tools
-- **Container Platforms:** OpenShift, Docker
-- **Scripting:** Shell/Bash
-- **Configuration Management:** GitOps patterns with ArgoCD
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Flux-44A1C6?style=for-the-badge&logo=flux&logoColor=white" alt="Flux"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔧 [mcp-k3d-poc](https://github.com/eknathdj/mcp-k3d-poc)
-Proof of concept demonstrating MCP integration with k3d for lightweight Kubernetes development environments. Showcases automated cluster provisioning and management workflows.
+A Proof of Concept for provisioning lightweight, local Kubernetes clusters using k3d, managed via MCP for streamlined development and testing workflows.
 
 **Tech:** Kubernetes | k3d | MCP | Automation
 
@@ -39,22 +38,22 @@ Comprehensive demonstration repository showcasing ArgoCD and Jenkins integration
 **Tech:** ArgoCD | Jenkins | OpenShift | Shell
 
 ### 📊 [aks-assessment-repo](https://github.com/eknathdj/aks-assessment-repo)
-Technical assessment and testing framework for Azure Kubernetes Service deployments. Includes infrastructure validation, security benchmarks, and operational readiness checks.
+Automates AKS readiness checks using Terraform to validate infrastructure, enforce security benchmarks, and ensure operational best practices before deployment.
 
 **Tech:** AKS | Terraform | Kubernetes
 
 ### 💬 [Chat_App](https://github.com/eknathdj/Chat_App)
-Containerized chat application demonstrating Docker best practices including multi-stage builds, image optimization, and container networking patterns.
+A containerized chat application showcasing Docker best practices, including optimized multi-stage builds and efficient image layering.
 
 **Tech:** Docker | JavaScript | Container Networking
 
 ### 🔧 [devops-argocd-jenkins-app](https://github.com/eknathdj/devops-argocd-jenkins-app)
-Integration project demonstrating seamless CI/CD workflows combining Jenkins for continuous integration and ArgoCD for continuous deployment using GitOps methodology.
+An integrated CI/CD pipeline where Jenkins builds and pushes container images, and ArgoCD manages continuous deployment via GitOps.
 
 **Tech:** Jenkins | ArgoCD | Docker | GitOps
 
 ### 🔄 [devops-gitops-flux](https://github.com/eknathdj/devops-gitops-flux)
-GitOps implementation using Flux for continuous deployment and application lifecycle management in Kubernetes environments. Demonstrates declarative application delivery and infrastructure synchronization.
+A GitOps repository demonstrating declarative application delivery in Kubernetes using Flux for automated synchronization and lifecycle management.
 
 **Tech:** Flux | GitOps | Kubernetes | Helm
 
@@ -98,11 +97,7 @@ I'm a strong advocate for:
 
 ## 🤝 Let's Connect
 
-I'm always excited to collaborate on DevOps projects, discuss infrastructure challenges, or explore new technologies. Feel free to reach out!
-
-- 💼 Open to collaboration on DevOps and cloud infrastructure projects
-- 📚 Passionate about sharing knowledge and best practices
-- 🌱 Constantly learning and exploring emerging DevOps tools and patterns
+I'm always excited to collaborate on DevOps projects, discuss infrastructure challenges, or explore new technologies. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eknathdj/)!
 
 ---
 
