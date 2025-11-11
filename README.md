@@ -28,15 +28,10 @@ I'm passionate about building robust, scalable, and automated infrastructure sol
 
 ## 📂 Featured Projects
 
-### 🚀 [project-infra-aks](https://github.com/eknathdj/project-infra-aks)
-Complete Azure AKS infrastructure scaffolding with ArgoCD bootstrap for GitOps demonstrations. This repository showcases production-ready Terraform modules for deploying and managing Kubernetes clusters on Azure with automated GitOps workflows.
+### 🔧 [mcp-k3d-poc](https://github.com/eknathdj/mcp-k3d-poc)
+Proof of concept demonstrating MCP integration with k3d for lightweight Kubernetes development environments. Showcases automated cluster provisioning and management workflows.
 
-**Tech:** Terraform | AKS | ArgoCD | GitOps
-
-### 🔐 [Terra-KV-Module](https://github.com/eknathdj/Terra-KV-Module)
-Reusable Terraform module for provisioning and managing Azure Key Vault resources. Designed with best practices for secrets management and access policies in enterprise environments.
-
-**Tech:** Terraform | Azure Key Vault | IaC
+**Tech:** Kubernetes | k3d | MCP | Automation
 
 ### 🔄 [devops-sample-app](https://github.com/eknathdj/devops-sample-app)
 Comprehensive demonstration repository showcasing ArgoCD and Jenkins integration with optional OpenShift deployment. A practical guide for implementing continuous delivery pipelines with GitOps principles.
@@ -57,6 +52,11 @@ Containerized chat application demonstrating Docker best practices including mul
 Integration project demonstrating seamless CI/CD workflows combining Jenkins for continuous integration and ArgoCD for continuous deployment using GitOps methodology.
 
 **Tech:** Jenkins | ArgoCD | Docker | GitOps
+
+### 🔄 [devops-gitops-flux](https://github.com/eknathdj/devops-gitops-flux)
+GitOps implementation using Flux for continuous deployment and application lifecycle management in Kubernetes environments. Demonstrates declarative application delivery and infrastructure synchronization.
+
+**Tech:** Flux | GitOps | Kubernetes | Helm
 
 ---
 
