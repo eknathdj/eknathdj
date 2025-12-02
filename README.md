@@ -1,7 +1,7 @@
 # Hi there, I'm Eknath 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/eknathdj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 I'm passionate about building robust, scalable, and automated infrastructure solutions. My expertise lies in orchestrating cloud-native applications, implementing GitOps workflows, and creating seamless CI/CD pipelines that empower development teams to ship faster and more reliably.
