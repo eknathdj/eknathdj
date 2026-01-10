@@ -89,9 +89,11 @@ I'm a strong advocate for:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eknathdj&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathdj&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eknathdj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" height="200" loading="lazy" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknathdj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" height="200" loading="lazy" />
+</p>
 
 ---
 
